@@ -1,0 +1,22 @@
+{
+  "name": "youtube_clone",
+  "version": "1.0.0",
+  "description": "Using NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanharis87/youtube_clone.git"
+  },
+  "author": "Haris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanharis87/youtube_clone/issues"
+  },
+  "homepage": "https://github.com/khanharis87/youtube_clone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
